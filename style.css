@@ -30,3 +30,13 @@ footer {
   background-color: #333;
   color: white;
 }
+
+#team,
+#about,
+#specializations,
+#address {
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  padding: 15px; 
+  margin-bottom: 20px;
+}
